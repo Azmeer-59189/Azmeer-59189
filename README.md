@@ -13,4 +13,8 @@ Resume Screener • Uni-Attest • Fraud Detector • PyGuard
 
 🐍 Contribution Activity
 
-[ animated snake here ]
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azmeer-59189/Azmeer-59189/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Azmeer-59189/Azmeer-59189/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Azmeer-59189/Azmeer-59189/output/github-snake.svg">
+</picture>
